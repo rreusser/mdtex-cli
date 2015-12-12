@@ -1,6 +1,6 @@
 {
   "name": "mdtex-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Markdown equation processing as a command line script",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rreusser/mdtex.git"
+    "url": "git://github.com/rreusser/mdtex-cli.git"
   },
   "keywords": [
     "markdown",

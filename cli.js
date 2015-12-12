@@ -8,7 +8,7 @@ var gulpEquations = require('./')
 var gutil = require('gulp-util')
 
 program
-  .version('0.0.1')
+  .version('0.0.3')
   .usage('[options] <file ...>')
   .option('-i, --input <file>', 'input file', getInput)
   .option('-o, --output <file>', 'output file destination')

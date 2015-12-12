@@ -1,6 +1,6 @@
 {
   "name": "mdtex-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Markdown equation processing as a command line script",
   "main": "index.js",
   "scripts": {

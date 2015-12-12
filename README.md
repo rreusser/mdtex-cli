@@ -1,6 +1,6 @@
 # mdtex-cli
 
-> Markdown equations as a command line script
+> Markdown equation processing as a command line script
 
 ## Introduction
 
@@ -25,7 +25,7 @@ $ mdtex
 Process a specific file:
 
 ```bash
-$ mdtex README.mdtex --output README.md --imageDir ./image-files
+$ mdtex README.mdtex --output README.md --imageDirectory ./image-files
 ```
 
 ## Requirements

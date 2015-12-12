@@ -52,3 +52,6 @@ $ mdtex --help
     -d, --imageDirectory <path>  image output destination
 ```
 
+## License
+
+(c) 2015 Ricky Reusser. ISC License.

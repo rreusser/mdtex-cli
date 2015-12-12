@@ -10,11 +10,14 @@
   "bin": {
     "mdtex": "cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rreusser/mdtex.git"
+  },
   "keywords": [
     "markdown",
     "latex",
-    "equations",
-    "gulp"
+    "equations"
   ],
   "author": "Ricky Reusser",
   "license": "ISC",
@@ -31,8 +34,7 @@
     "gulp-spawn": "^0.3.0",
     "gulp-tap": "^0.1.3",
     "gulp-util": "^3.0.7",
-    "hasbin": "^1.1.3",
-    "mkdirp": "^0.5.1"
+    "hasbin": "^1.1.3"
   },
   "devDependencies": {
     "standard": "^5.4.1"

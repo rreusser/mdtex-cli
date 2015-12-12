@@ -4,9 +4,11 @@
 
 ## Introduction
 
-This is a convenience wrapper for [gulp-markdown-equations](https://github.com/rreusser/gulp-markdown-equations). That packages requires a custom gulpfile in your project with all oft he custom setup. That's nice, but it's a pain. This project takes a simple workflow and wraps it in a cli utility. The result is:
+This is a convenience wrapper for [gulp-markdown-equations](https://github.com/rreusser/gulp-markdown-equations). That package requires a custom gulpfile in your project, which is a pain. This project takes a simple workflow and wraps it in a cli utility. The result is:
 
 <p align="center"><img alt="simple&bsol;&semi;&bsol;LaTeX&bsol;&semi;typesetting&period;" valign="middle" src="images/simplelatextypesetting-95e156e622.png" width="234.5" height="32.5"></p>
+
+for your markdown documents.
 
 ## Installation
 
